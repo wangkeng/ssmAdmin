@@ -4,7 +4,7 @@
 <!doctype html>
 <html>
 <head>
-<title>后台管理</title>
+<title>后台管理test</title>
 <link href="${ctx}/resource/css/lib/easyui/themes/gray/easyui.css"
 	rel="stylesheet"></link>
 <link href="${ctx}/resource/css/lib/easyui/themes/icon.css"

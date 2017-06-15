@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
+﻿<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
 <%@include file="WEB-INF/jsp/common/taglibs.jsp"%>
 
 <!doctype html>
@@ -17,7 +17,7 @@
 .menuStyle {
 	height: 25px;
 	padding-top: 10px;
-	padding-left: 10px;
+	padding-left: 12px; 
 }
 
 #exit:hover {
